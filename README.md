@@ -6,7 +6,7 @@ React + TypeScript + Vite frontend for the Content Broadcasting System. Teachers
 
 | | |
 |---|---|
-| **Frontend** | *(set after Vercel deployment)* |
+| **Frontend** | `https://exquisite-crepe-0a0919.netlify.app` |
 | **Backend API** | `https://content-broadcast-backend.onrender.com/api/v1` |
 | **Swagger Docs** | `https://content-broadcast-backend.onrender.com/api/v1/docs` |
 
